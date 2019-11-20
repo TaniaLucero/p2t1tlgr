@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">p2t1tlgr</string>
+    <string name="titulo1">OPERACIONES</string>
+    <string name="titulo2">RESULTADO</string>
+    <string name="val1">INGRESE VALOR</string>
+    <string name="rb1">SUMA</string>
+    <string name="rb2">RESTA</string>
+    <string name="rbmult">MULTIPLICACION</string>
+    <string name="rbdiv">DIVISION</string>
+</resources>
